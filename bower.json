@@ -1,0 +1,32 @@
+{
+  "name": "gvozdilla_front_end_boilerplate",
+  "description": "Шаблон проекта для быстрого старта проекта для фронт-энда от студии \"Гвоздь программы\"",
+  "main": "index.js",
+  "authors": [
+    "Igor Smirnov"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "fron-end"
+  ],
+  "moduleType": [
+    "amd",
+    "es6",
+    "globals",
+    "node",
+    "yui"
+  ],
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "normalize-css": "normalize.css#^3.0.3",
+    "susy": "^2.2.12"
+  }
+}
