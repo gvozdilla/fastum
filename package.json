@@ -1,7 +1,7 @@
 {
-  "name": "gvozdilla_front_end_boilerplate",
+  "name": "Cavaleria frontend boilerplate",
   "version": "1.0.0",
-  "description": "Шаблон проекта для быстрого старта проекта для фронт-энда от студии \"Гвоздь программы\"",
+  "description": "Шаблон проекта для быстрого старта проекта для фронт-энда от студии \"Кавалерия\"",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
